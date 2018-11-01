@@ -1,0 +1,45 @@
+button{
+	outline: none;
+	border: none;
+}
+button.loginButton:active,.huiyiButon:active{
+	background: #f3f3f3
+}
+button.loginButton:disabled{
+	color: #999;
+	background:#f3f3f3;
+}
+textarea{
+	width: 100%;
+	border: none;
+	outline: none;
+}
+.text-center{
+	text-align: center;
+}
+ul{
+	list-style: none
+}
+.right{
+	float:right;
+}
+.left{
+	float: left;
+}
+.fs-0{
+font-size: 0;
+}
+.position-abs{
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.iconfont{
+	font-size:inherit
+}
+.hide{
+	display: none;
+}
+.display-ib{
+	display: inline-block;
+}
